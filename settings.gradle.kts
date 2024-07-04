@@ -3,6 +3,7 @@ extra["minecraft"] = "1.20.1"
 apply("https://github.com/SettingDust/MinecraftGradleScripts/raw/main/common.gradle.kts")
 apply("https://github.com/SettingDust/MinecraftGradleScripts/raw/main/fabric.gradle.kts")
 apply("https://github.com/SettingDust/MinecraftGradleScripts/raw/main/mixin.gradle.kts")
+apply("https://github.com/SettingDust/MinecraftGradleScripts/raw/main/modmenu.gradle.kts")
 
 dependencyResolutionManagement.versionCatalogs.named("catalog") {
     library("balm", "maven.modrinth", "balm").version("7.3.6+fabric-1.20.1")

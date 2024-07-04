@@ -37,6 +37,8 @@ dependencies {
     modImplementation(catalog.fabric.loader)
     modImplementation(catalog.fabric.api)
 
+    modRuntimeOnly(catalog.modmenu)
+
     modImplementation(catalog.waystones)
     modRuntimeOnly(catalog.balm)
 

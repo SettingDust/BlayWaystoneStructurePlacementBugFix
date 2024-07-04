@@ -1,0 +1,19 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "settingdust.blaywaystonestructureplacementbugfix.mixin",
+    "refmap": "${id}.refmap.json",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "GuaranteedPoolElementAccessor",
+        "LithostitchedCommonMixin",
+        "MainMixin",
+        "ModWorldGenMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1,
+        "maxShiftBy": 2
+    }
+}

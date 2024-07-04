@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Pack for fix blay waystone structure placement",
+        "patched:has_patches": true
+    },
+    "patched": {
+        "format_version": 1
+    }
+}

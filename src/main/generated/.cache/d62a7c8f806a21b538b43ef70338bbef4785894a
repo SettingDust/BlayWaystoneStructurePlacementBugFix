@@ -1,0 +1,6 @@
+// 1.20.1	2024-07-04T09:19:21.5697739	Blay Waystone Structure Placement Bug Fix/DATA_PACK Json Patches: blaywaystonestructureplacementbugfix
+5a49e2513e6a0c153d4da0f5a5cbc7ed2bbec60e data\minecraft\worldgen\structure\village_savanna.json.patch
+5a49e2513e6a0c153d4da0f5a5cbc7ed2bbec60e data\minecraft\worldgen\structure\village_snowy.json.patch
+5a49e2513e6a0c153d4da0f5a5cbc7ed2bbec60e data\minecraft\worldgen\structure\village_taiga.json.patch
+5a49e2513e6a0c153d4da0f5a5cbc7ed2bbec60e data\minecraft\worldgen\structure\village_desert.json.patch
+5a49e2513e6a0c153d4da0f5a5cbc7ed2bbec60e data\minecraft\worldgen\structure\village_plains.json.patch
